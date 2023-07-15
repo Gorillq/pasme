@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: pasme
+Version: 1.0.0
+Summary: Random password generator
+Author-email: Kamil Kownacki <kamil.kownacki3@gmail.com>
+Project-URL: Homepage, https://github.com/Gorillq/pasme
+Project-URL: Bug Tracker, https://github.com/Gorillq/pasme/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT
+Requires-Python: >=3.8
+License-File: LICENSE
