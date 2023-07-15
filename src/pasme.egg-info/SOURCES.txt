@@ -1,0 +1,6 @@
+LICENSE
+pyproject.toml
+src/pasme.egg-info/PKG-INFO
+src/pasme.egg-info/SOURCES.txt
+src/pasme.egg-info/dependency_links.txt
+src/pasme.egg-info/top_level.txt
