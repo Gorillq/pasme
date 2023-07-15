@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=68.0"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[project]
+name = "pasme"
+version = "1.0.0"
+authors = [
+  { name="Kamil Kownacki", email="kamil.kownacki3@gmail.com" },
+]
+description = "Random password generator"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/Gorillq/pasme"
+"Bug Tracker" = "https://github.com/Gorillq/pasme/issues"
+
+
